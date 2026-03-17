@@ -12,7 +12,7 @@ vim.keymap.set("n", "<leader>fh", builtin.help_tags, { desc = "Telescope help ta
 -- Keymaps for toogle terminal
 vim.keymap.set(
   "n",
-  "<leader>tf",
+  "<leader>ft",
   "<cmd> ToggleTerm direction=float<CR>",
   { desc = "Toogle Term middle floating terminal windows" }
 )
