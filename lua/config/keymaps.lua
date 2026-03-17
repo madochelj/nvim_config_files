@@ -19,3 +19,6 @@ vim.keymap.set(
 
 -- Keymaps to save and quit files
 vim.keymap.set("n", "<leader>sq", "<cmd>wq<CR>", { desc = "Save and quit files" })
+
+-- Keymaps for NeoTree
+vim.keymap.set("n", "<leader>nt", "<cmd>Neotree<CR>", { desc = "Open NeoTree" })

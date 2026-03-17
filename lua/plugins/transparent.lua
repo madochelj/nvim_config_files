@@ -14,6 +14,8 @@ return {
       "TelescopeMatching",
       "TelescopePromptPrefix",
       "TelescopeSelectionCaret",
+      "NeoTreeNormal",
+      "NeoTreeNormalNC",
     },
   },
 }
